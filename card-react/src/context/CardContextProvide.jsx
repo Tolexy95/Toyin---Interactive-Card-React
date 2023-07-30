@@ -17,7 +17,7 @@ const objectToBePassed = {
     setHolderNumber,
     cardMonth, 
     setCardMonth,
-    cardYear, 
+    cardYear,  
     setCardYear,
     cardCVC, 
     setCardCVC,
